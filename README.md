@@ -10,6 +10,8 @@ AZURE_OPENAI_API_KEY=<REPLACE_ME>
 OPENAI_API_VERSION=<REPLACE_ME>
 ```
 
+**Note**: The way to access those credentials will be sent through private communication.
+
 ## Available samples
 
 This repository contains the following samples
