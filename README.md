@@ -22,6 +22,7 @@ This repository contains the following samples
 | [gpt.py](./gpt.py) | Generate text using a Azure OpenAI GPT model |
 | [embeddings.py](./embeddings.py) | Generate embeddings using an Azure OpenAI embedding model |
 | [truncate_tokens.py](./truncate_tokens.py) | Shows how to truncate tokens to control context size usage and avoid going over the model's limit |
+| [functions_calling.py](./functions_calling.py) | Shows how to use Function calling |
 
 ## Available models
 
