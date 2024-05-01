@@ -18,8 +18,9 @@ This repository contains the following samples
 
 | Sample  | Explanation |
 | ------------- | ------------- |
-| [dalle3.py](./dalle3.py)  | Generate an image using DALL-E 3 |
-| [gpt.py](./gpt.py) | Generate text using a GPT model |
+| [dalle3.py](./dalle3.py)  | Generate an image using Azure OpenAI DALL-E 3 |
+| [gpt.py](./gpt.py) | Generate text using a Azure OpenAI GPT model |
+| [embeddings.py](./embeddings.py) | Generate embeddings using an Azure OpenAI embedding model |
 
 ## Available models
 
@@ -29,7 +30,7 @@ This repository contains the following samples
 | gpt-35-turbo  | OpenAI Chat | [gpt.py](./gpt.py) |
 | gpt-4-turbo  | OpenAI Chat | [gpt.py](./gpt.py) |
 | gpt-4-vision  | OpenAI Chat | [gpt.py](./gpt.py) |
-| text-embedding-ada-002  | OpenAI Embedding | TODO |
+| text-embedding-ada-002  | OpenAI Embedding | [embeddings.py](./embeddings.py) |
 
 
 ## Info about the code
