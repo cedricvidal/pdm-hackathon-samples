@@ -21,6 +21,7 @@ This repository contains the following samples
 | [dalle3.py](./dalle3.py)  | Generate an image using Azure OpenAI DALL-E 3 |
 | [gpt.py](./gpt.py) | Generate text using a Azure OpenAI GPT model |
 | [embeddings.py](./embeddings.py) | Generate embeddings using an Azure OpenAI embedding model |
+| [truncate_tokens.py](./truncate_tokens.py) | Shows how to truncate tokens to control context size usage and avoid going over the model's limit |
 
 ## Available models
 
